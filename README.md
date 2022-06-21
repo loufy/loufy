@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loufy
 - 👀 I’m interested in scince
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on solving problems
 - 📫 How to reach me vv send me a massage
 
